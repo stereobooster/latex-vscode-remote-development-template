@@ -17,12 +17,8 @@ You can check that first link for the full details of how to get set up to use V
 - https://www.acm.org/publications/taps/word-template-workflow
 - https://arxiv.org/help/submit_tex
 
-### Test extensions
+## TODO
 
-- ban.spellright
-  - Hunspell
-- streetsidesoftware.code-spell-checker
-- brunnerh.insert-unicode
-- siegebell.prettify-symbols-mode
-- Gruntfuggly.todo-tree
-- https://valentjn.github.io/vscode-ltex/docs/faq.html#whats-the-difference-between-vscode-ltex-ltex-ls-and-languagetool
+- how to use ACM template?
+- how to handle unicode?
+- Zotero/Bibtext setup
